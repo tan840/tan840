@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://tenor.com/view/cat-meow-big-lips-gif-13233291)
+![](https://user-images.githubusercontent.com/42252274/115551945-89deaf80-a2cd-11eb-86cc-6fa95624c823.gif)
+
