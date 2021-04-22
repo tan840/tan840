@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me:
-I am Tanvir Ahmed and I am a Game Developer. I work with Unity for over 4 years and I love learning new tools and techniques.
+I am Tanvir Ahmed and I am a Game Developer. I am working with Unity for over 4 years and I love learning new tools and techniques.
 I am good listener and also good with communication. I am always curious, hard working and always exploring.
 
 ## Useful Links:
